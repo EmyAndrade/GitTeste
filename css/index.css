@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    margin: 0;
+}
+
+.title{
+    color: blueviolet;
+    margin-left: 40%;
+    margin-top: 10px;
+}
+
+.nav{
+    background-color: white;
+    padding: 20px 20px 30px 20px;
+    display: flex;
+}
+
+.icontext{
+    color: blueviolet;
+    background-color: white;
+    margin-top: 10px;
+    cursor: pointer;
+    margin-left: 10%;
+}
+
